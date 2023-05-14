@@ -9,7 +9,11 @@ permalink: index.html
 toc: false
 ---
 
-## Introduction
+This site lists resources useful for discourse and dialogue research. 
+
+- [Corpora](corpora.html)
+- [Tools](tools.html)
+- [Challenges](challenges.html)
 
 
-
+This site is build with [Documentation Theme for Jekyll](https://idratherbewriting.com/documentation-theme-jekyll/). We would like to thank Tom Johnson, the creator of the theme.
