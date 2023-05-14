@@ -1,18 +1,14 @@
 ---
 title: Tools
-tags: [formatting]
-keywords: datatables, tables, grids, markdown, multimarkdown, jquery plugins
-last_updated: Jan 22, 2023
+keywords: tool, programming language
+last_updated: May 13, 2023
 datatable: true
-summary: "You can format tables using either multimarkdown syntax or HTML. You can also use jQuery datatables (a plugin) if you need more robust tables."
+summary: "Tools useful for discourse and dialogue research"
 sidebar: mydoc_sidebar
 hide_sidebar: true
 permalink: tools.html
 folder: tools
 ---
-
-## Multimarkdown Tables
-
 
 <div class="datatable-begin"></div>
 <table>
@@ -25,8 +21,8 @@ folder: tools
 <thead>
 <tr class="header">
 <th>Name</th>
-<th>Developer(s)</th>
-<th>Language</th>
+<th>Developer</th>
+<th>Programming Language</th>
 <th>Belief Description</th>
 </tr>
 </thead>
@@ -44,27 +40,21 @@ folder: tools
 <td markdown="span"></td>
 </tr>
 <tr>
-<td markdown="span">Rasa</td>
-<td markdown="span"></td>
-<td markdown="span"></td>
-<td markdown="span"></td>
-</tr>
-<tr>
-<td markdown="span">ConvLab</td>
-<td markdown="span"></td>
-<td markdown="span"></td>
+<td markdown="span">[Rasa Open Source](https://rasa.com/docs/rasa/)</td>
+<td markdown="span">Rasa Technologies</td>
+<td markdown="span">Python</td>
 <td markdown="span"></td>
 </tr>
 <tr>
-<td markdown="span">Cogent</td>
-<td markdown="span"></td>
-<td markdown="span"></td>
+<td markdown="span">[ConvLab](https://convlab.github.io/)</td>
+<td markdown="span">Tsinghua University Conversational AI group (THU-coai) and Microsoft Research (MSR)</td>
+<td markdown="span">Python</td>
 <td markdown="span"></td>
 </tr>
 <tr>
-<td markdown="span">BotPress</td>
-<td markdown="span"></td>
-<td markdown="span"></td>
+<td markdown="span">[BotPress](https://github.com/botpress)</td>
+<td markdown="span">Botpress, Inc.</td>
+<td markdown="span">TypeScript</td>
 <td markdown="span"></td>
 </tr>
 </tbody>
