@@ -88,7 +88,7 @@ The corpora list has been adapted from [A Survey of Available Corpora for Buildi
 <td markdown="span">Face-to-face</td>
 <td markdown="span">Audio, video (not available)</td>
 <td markdown="span">direction giving</td>
-<td markdown="span">human-human</td>
+<td markdown="span">Human-human</td>
 <td markdown="span">128 dialogues, 174K words, 18hrs</td>
 <td markdown="span"></td>
 <td markdown="span"></td>
@@ -148,20 +148,20 @@ The corpora list has been adapted from [A Survey of Available Corpora for Buildi
 <td markdown="span">[Zhang et al., 2018](https://arxiv.org/abs/1801.07243)</td>
 </tr>
 
-<!--
 <tr>
-<td markdown="span">[The Schema-Guided Dialogue Dataset](https://github.com/google-research-datasets/dstc8-schema-guided-dialogue)</td>
+<td markdown="span">[Schema-Guided Dialogue Dataset](https://github.com/google-research-datasets/dstc8-schema-guided-dialogue)</td>
 <td markdown="span">English</td>
+<td markdown="span">Text</td>
+<td markdown="span">Text</td>
+<td markdown="span">16 domains</td>
+<td markdown="span">Human-Virtual Agent</td>
+<td markdown="span">16K dialogues, 330K turns</td>
 <td markdown="span"></td>
-<td markdown="span"></td>
-<td markdown="span"></td>
-<td markdown="span"></td>
-<td markdown="span"></td>
-<td markdown="span"></td>
-<td markdown="span"></td>
-<td markdown="span"></td>
+<td markdown="span">The dataset consists of conversations between a virtual assistant and a user ranging over a variety of domains including Travel, Events, Payment, Media, Restaurants, Weather etc. Annotations for natural language understanding, dialogue state tracking, policy learning, natural language generation and user simulation learning are also included.</td>
+<td markdown="span">[Rastogi et al., 2020](https://ojs.aaai.org/index.php/AAAI/article/view/6394)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">EmoWOZ</td>
 <td markdown="span"></td>
